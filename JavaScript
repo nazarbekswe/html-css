@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    </head>
+    <body>
+        <h1>JavaScript</h1>
+        <script>
+            console.log("bazarda alma alamiz")
+            console.log("biyil:,2026")
+            console.log("men 2011-jili tuwildim")
+            console.log("5 kg alma bahasi",5000*7, "sum")
+            console.log("7*1=", 7*1)
+            console.log("7*2=", 7*2)
+            console.log("7*3=", 7*3)
+            console.log("7*4=", 7*4)
+        </script>
+    </body>
+</html>
