@@ -15,3 +15,25 @@
         </script>
     </body>
 </html>
+                       <!--02.06.26--> 
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScrift</title>
+    </head>
+    <body>
+        <h4>JavaScrift</h4>
+        <script>
+          let miywe = "alma"
+          let baha = 27000
+          console.log(miywe)
+          console.log(baha)
+          console.log( "Bazarda",miywe, "bahasi", baha, "sum eken")
+        </script>
+    </body>
+</html>
+
+
+
+
+
