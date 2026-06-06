@@ -50,6 +50,31 @@
         </script>
     </body>
 </html>
+            // 06.06.26
+ <!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScrift</title>
+    </head>
+    <body>
+        <h4>JavaScript</h4>
+    <script>
+        let first_name = "Azamat"
+        let adress = "taxtakopir"
+        let hobby = "shaxmat"
+        let phone =  "+998939322011"
+        let love_word = "qalay" 
+
+        console.log(`${first_name} ${first_name.length} haqrip bar eken`)
+        console.log(`${adress} --> ${adress.toUpperCase()}`)
+        console.log(`${hobby}-->  ${hobby.toLowerCase ()}`)
+        console.log(`${phone} -->${hobby.includes ()}+belgi barma`)
+        console.log(`${love_word}  ${love_word.repeat(12)}  qalay `)
+
+    </script>
+    </body>
+</html>
+
 
 
 
