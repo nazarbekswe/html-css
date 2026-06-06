@@ -71,6 +71,11 @@
         console.log(`${phone} -->${hobby.includes ()}+belgi barma`)
         console.log(`${love_word}  ${love_word.repeat(12)}  qalay `)
 
+  console.log(Qaraqalpaqsatan[0]) 
+       console.log(Qaraqalpaqsatan[2]) 
+       console.log(Qaraqalpaqsatan[6]) 
+       console.log(Qaraqalpaqsatan[10]) 
+       console.log(Qaraqalpaqsatan[12]) 
     </script>
     </body>
 </html>
