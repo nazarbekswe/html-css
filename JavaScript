@@ -127,6 +127,17 @@
             <td>Qaraozek</td>
         </tr>
        </table> 
+                //12.06.26
+<script>
+            let tezlik=Number(prompt ("Mashinanin tezligin kiritin"))
+
+            if (tezlik >70 ){
+                console.log("tezlik joqari bolsa jariyme!")
+            } else{
+                console.log("Haq jol Manzilinizge jaqsi jetip alin!")
+            }
+                    
+        </script>
     </body>
 </html>
 
