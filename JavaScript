@@ -136,7 +136,17 @@
             } else{
                 console.log("Haq jol Manzilinizge jaqsi jetip alin!")
             }
-                    
+                              //  18.06.26
+                function  sayHello() {
+                console.log("JavaScript darisimizga xush kelibsiz!")
+            }
+         sayHello()
+
+          function  showMyInfo() {
+                console.log("Talentshow")
+            }
+         showMyInfo()
+               
         </script>
     </body>
 </html>
