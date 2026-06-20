@@ -165,6 +165,34 @@
         if (operator ==="-"){
                 aliw(birinshi_san, ekinshi_san)
         }
+function kobeytiw(a, b) {
+    console.log(`${a} * ${b} = ${a * b}`);
+}
+
+function aliw(a, b) {
+    console.log(`${a} - ${b} = ${a - b}`);
+}
+
+function qosiw(a, b) {
+    console.log(`${a} + ${b} = ${a + b}`);
+}
+
+
+let a = Number(prompt("Birinshi sandı kiritiń:")); 
+let b = Number(prompt("Ekinshi sandı kiritiń:")); 
+let operator = prompt("Birewin tańlań (+, -, *)");
+
+
+if (operator === "*") {
+    kobeytiw(a, b);
+} else if (operator === "-") {
+    aliw(a, b); 
+} else if (operator === "+") {
+    qosiw(a, b);
+} else {
+    console.log("operator");
+} 
+
     </script>            
     </body>
 </html>
