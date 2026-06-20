@@ -148,6 +148,24 @@
          showMyInfo()
                
         </script>
+   <script>
+                                 //20.06.26
+        function qosiw (a, b){
+                console.log(`${a}  + ${a+b}`)
+        }
+
+         function aliw (a, b){
+                console.log(`${a} - ${b}  = ${a-b}`)
+        }
+
+        let birinshi_san = 19
+        let ekinshi_san = 5
+        let operator = "-"
+
+        if (operator ==="-"){
+                aliw(birinshi_san, ekinshi_san)
+        }
+    </script>            
     </body>
 </html>
 
