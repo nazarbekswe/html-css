@@ -202,6 +202,14 @@ if (operator === "*") {
         }
         console.log(printAge("Ajiniyaz",14))
         console.log(printAge("Altinbek",10))
+    function chekweather(gradus){
+            if (gradus>=49){
+                return "kun issi"
+            } else {
+                return "kun salqin"
+            }
+        }
+        console.log(chekweather(50))
     </script>            
     </body>
 </html>
