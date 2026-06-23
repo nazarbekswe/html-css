@@ -192,7 +192,12 @@ if (operator === "*") {
 } else {
     console.log("operator");
 } 
-
+          //function
+        function nonNarxi(dona){
+           return dona * 4000  
+            } 
+        console.log(nonNarxi(4 ))
+       </script> 
     </script>            
     </body>
 </html>
