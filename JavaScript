@@ -197,7 +197,11 @@ if (operator === "*") {
            return dona * 4000  
             } 
         console.log(nonNarxi(4 ))
-       </script> 
+        function printAge(name, age){
+            return `${name} ${age} jasda`
+        }
+        console.log(printAge("Ajiniyaz",14))
+        console.log(printAge("Altinbek",10))
     </script>            
     </body>
 </html>
